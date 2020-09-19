@@ -1,1 +1,1 @@
-This is my sample Git text file
+This is my sample Git text file. i have modified the sample. i will commit this once more.
